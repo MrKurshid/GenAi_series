@@ -3,3 +3,5 @@ dotenv
 langchain-google-genai
 streamlit
 langchain-groq
+langchain-community
+langgraph
